@@ -9,7 +9,7 @@ import 'package:pagination_assignment/dashboard_pagination/data_model/lead_data_
 
 class ListPaginationState extends ChangeNotifier {
   int _currentPageNumber = 1;
-  final int _totalPages = 10;
+  final int _totalPages = 50;
   DataState _dataState = DataState.uninitialized;
 
   bool get _didLastLoad => _currentPageNumber >= _totalPages;
