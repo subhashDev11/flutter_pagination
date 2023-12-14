@@ -1,16 +1,20 @@
-# pagination_assignment
+#Flutter Pagination 
+## Feature
+1. Lazy loading
+2. By using http
+3. State management using provider
+4. Shimmer animation
+5. Card UI
+6. State event handling
+7. Clean & Structured code
+8. Assets management
+9. Complete boilerplate code
 
-A new Flutter project.
+Resources & Tools - 
+1. provider
+2. http
+3. logger
+4. flutter_svg
+5. shimmer_animation
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
